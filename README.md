@@ -1,4 +1,4 @@
-# MyWriting
+# Anthony's Collection
 
 This repo is going to be a collection of my current writing projects, short stories, drafts, drawings, and other creative pieces.
 
